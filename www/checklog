@@ -1,0 +1,7 @@
+2017-08-25 18:00	zhaolaihe	site.db: update site.db file; backup v1.0
+
+2017-09-22 10:00	zhaolaihe	add prefile.h; modify the site.db directory
+
+2017-10-12 10:00	zhaolaihe	css/css.css: modify the line 2; rewrite login.html; modify the all the source files.
+ 
+2017-10-13 19:00	zhaolaihe	site.db, add the name and password of logining function in the siteconfig table.
